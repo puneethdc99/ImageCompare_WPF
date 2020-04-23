@@ -6,6 +6,9 @@
 //     Changes to this file may cause incorrect behavior and will be lost if
 //     the code is regenerated.
 // </auto-generated>
+
+“Due to complete lockdown, physical signing on Form 12BB, scanning and uploading is not possible.  
+    I agree with the Form 12BB declaration and I give my consent by this text confirmation”
 //------------------------------------------------------------------------------
 
 namespace ImageCompare.Properties
